@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ejercicio Calificado - Paladins</string>
+    <string name="mostrar_campe_n">Mostrar Campeón</string>
+
+    <string-array name="champions">
+        <item>Bomb King</item>
+        <item>Tyra</item>
+        <item>Terminus</item>
+        <item>Moji</item>
+        <item>Drogoz</item>
+        <item>Mal'Damba</item>
+        <item>Seris</item>
+        <item>Sha lin</item>
+        <item>Strix</item>
+        <item>Torvald</item>
+        <item>Vivian</item>
+    </string-array>
+
+</resources>
